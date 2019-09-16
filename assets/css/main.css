@@ -124,7 +124,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 600;
-		color: #668f80;
+		color: #300e22;
 	}
 
 	i, em {
@@ -150,7 +150,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #300e22;
+		color: #7d295a;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -2036,7 +2036,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #300e22;
 		text-align: center;
 		position: fixed;
 		left: 0;
@@ -2071,14 +2071,14 @@ input, select, textarea {
 			outline: 0;
 			font-weight: 600;
 			border-radius: 8px;
-			color: #fff;
+			color: #f9efef;
 			height: 2.5em;
 			line-height: 2.5em;
 			padding: 0 1.25em;
 		}
 
 			#nav a:hover {
-				color: #fff !important;
+				color: #f9efef !important;
 				background: #383838;
 			}
 
