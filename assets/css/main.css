@@ -150,7 +150,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #7d295a;
+		color: #493e45;
 		margin: 0 0 0.75em 0;
 	}
 
@@ -1530,7 +1530,7 @@ input, select, textarea {
 		font-size: 1em;
 		border-radius: 8px;
 		border: solid 1px #ddd;
-		background: #fff;
+		background: #f9efef;
 		color: #bbb;
 		box-shadow: inset 0px 2px 3px 1px rgba(0, 0, 0, 0.05), 0px 1px 0px 0px rgba(255, 255, 255, 0.025);
 		width: 100%;
@@ -1604,7 +1604,7 @@ input, select, textarea {
 
 			table.default thead {
 				background: #4f4f4f;
-				color: #fff;
+				color: #f9efef;
 			}
 
 /* Section/Article */
@@ -1676,7 +1676,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		color: #fff !important;
+		color: #f9efef !important;
 		text-decoration: none;
 		font-weight: 700;
 		border: 0;
@@ -1698,7 +1698,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			background-color: #493e45;
-			color: #fff !important;
+			color: #f9efef !important;
 		}
 
 		input[type="button"]:active,
@@ -1734,7 +1734,7 @@ input, select, textarea {
 			button.alt:hover,
 			.button.alt:hover {
 				background-color: #493e45;
-				color: #fff !important;
+				color: #f9efef !important;
 			}
 
 			input[type="button"].alt:active,
@@ -1911,7 +1911,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #fff;
+		background: #f9efef;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
@@ -1995,17 +1995,17 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-image: none;
-			background-color: #fff;
+			background-color: #f9efef;
 		}
 
 		.wrapper.style2 {
 			background-color: #fafafa;
-			text-shadow: 1px 1px 0px #fff;
+			text-shadow: 1px 1px 0px #f9efef;
 		}
 
 		.wrapper.style3 {
 			background-color: #f4f4f4;
-			text-shadow: 1px 1px 0px #fff;
+			text-shadow: 1px 1px 0px #f9efef;
 		}
 
 		.wrapper.style4 {
@@ -2015,7 +2015,7 @@ input, select, textarea {
 		}
 
 			.wrapper.style4 h1, .wrapper.style4 h2, .wrapper.style4 h3, .wrapper.style4 h4, .wrapper.style4 h5, .wrapper.style4 h6 {
-				color: #fff;
+				color: #f9efef;
 			}
 
 			.wrapper.style4 form input[type=text],
@@ -2066,7 +2066,7 @@ input, select, textarea {
 			transition: background-color .2s ease-in-out;
 			position: relative;
 			display: block;
-			color: #fff;
+			color: #f9efef;
 			text-decoration: none;
 			outline: 0;
 			font-weight: 600;
