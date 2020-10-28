@@ -2718,11 +2718,11 @@ input, select, textarea {
 			#header h1 a, #header h2 a, #header h3 a, #header h4 a, #header h5 a, #header h6 a {
 				color: #ffffff;
 			}
-
+/*foam green*/
 		#header header p {
 			color: #b7eadc;
 		}
-
+/*light pink*/
 		#header a {
 			color: #e88f92;
 		}
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #493e45;
+					border-top: solid 2px #ff9986;
 					display: block;
 					padding: 0;
 				}
