@@ -2724,7 +2724,7 @@ input, select, textarea {
 		}
 /*light pink*/
 		#header a {
-			color: #e88f92;
+			color: #e4e4e4;
 		}
 
 			#header a:hover {
@@ -2751,7 +2751,8 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #363636;
+				color: #e4e4e4;
+				font-style: italic;
 				margin: 1em 0 0 0;
 			}
 
@@ -2771,7 +2772,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #e88f92;
+					color: #e4e4e4;
 				}
 
 		#header > nav {
