@@ -2791,7 +2791,7 @@ input, select, textarea {
 				#header > nav ul li {
 					border-top: solid 1px #ffffff;
 					display: block;
-					padding: 0;
+					padding: 2;
 				}
 
 					#header > nav ul li a {
@@ -2799,10 +2799,10 @@ input, select, textarea {
 						-webkit-transition: none;
 						-ms-transition: none;
 						transition: none;
-						border: 1;
+						border: 2;
 						color: #ffffff !important;
 						display: block;
-						padding: 2em 0;
+						padding: 4em 0;
 						text-decoration: none;
 					}
 
@@ -2819,7 +2819,7 @@ input, select, textarea {
 
 	#wrapper {
 		background: #fff;
-		padding-right: 23em;
+		padding-right: 20em;
 	}
 
 /* Main */
