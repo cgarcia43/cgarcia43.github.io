@@ -2802,7 +2802,7 @@ input, select, textarea {
 						border: 1;
 						color: #ffffff;
 						display: block;
-						padding: 0.85em 0;
+						padding: 0.7em 0;
 						text-decoration: none;
 					}
 
@@ -2819,7 +2819,7 @@ input, select, textarea {
 
 	#wrapper {
 		background: #fff;
-		padding-right: 23em;
+		padding-right: 20em;
 	}
 
 /* Main */
@@ -2980,7 +2980,7 @@ input, select, textarea {
 				overflow-y: auto;
 				position: fixed;
 				top: 0;
-				width: 23em;
+				width: 20em;
 				z-index: 10002;
 				-moz-transform: translateX(23em);
 				-webkit-transform: translateX(23em);
