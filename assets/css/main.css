@@ -2785,13 +2785,13 @@ input, select, textarea {
 			#header > nav ul {
 				list-style: none;
 				margin: 0;
-				padding: 2;
+				padding: 1.5;
 			}
 
 				#header > nav ul li {
 					border-top: solid 1px #ffffff;
 					display: block;
-					padding: 2;
+					padding: 1.5;
 				}
 
 					#header > nav ul li a {
@@ -2799,7 +2799,7 @@ input, select, textarea {
 						-webkit-transition: none;
 						-ms-transition: none;
 						transition: none;
-						border: 2;
+						border: 1.5;
 						color: #ffffff !important;
 						display: block;
 						padding: 3em 0;
