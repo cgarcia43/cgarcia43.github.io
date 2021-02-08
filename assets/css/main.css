@@ -2738,12 +2738,12 @@ input, select, textarea {
 		justify-content: space-between;
 		background: #ff9986;
 		color: #d2f2e9;
-		height: 100%;
+		height: 110%;
 		overflow-y: auto;
 		position: fixed;
 		text-align: center;
 		top: 0;
-		width: 23em;
+		width: 22em;
 		right: 0;
 	}
 
