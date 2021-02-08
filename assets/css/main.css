@@ -2825,7 +2825,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 0.85px #ffffff;
+					border-top: solid 0.75px #ffffff;
 					display: block;
 					padding: 0;
 				}
