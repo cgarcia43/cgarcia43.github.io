@@ -3068,15 +3068,15 @@ input, select, textarea {
 				z-index: 10001;
 				background: #222;
 				color: #fff;
-				min-width: 320px;
+				min-width: 300px;
 			}
 
 				#titleBar .title {
 					color: #fff;
 					display: block;
 					font-weight: 700;
-					height: 44px;
-					line-height: 44px;
+					height: 40px;
+					line-height: 40px;
 					padding: 0 1em;
 					width: 100%;
 					text-align: left;
