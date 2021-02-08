@@ -2799,7 +2799,7 @@ input, select, textarea {
 						-webkit-transition: none;
 						-ms-transition: none;
 						transition: none;
-						border: 0;
+						border: 1;
 						color: #ffffff !important;
 						display: block;
 						padding: 0.85em 0;
