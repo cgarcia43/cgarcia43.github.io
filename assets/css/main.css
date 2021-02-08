@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #888;
 		font-family: "Lato", sans-serif;
-		font-size: 14pt;
+		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
 	}
@@ -2736,17 +2736,17 @@ input, select, textarea {
 			-webkit-flex-shrink: 0;
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
-			padding: 1em;
+			padding: 3em;
 		}
 
 			#header > header .avatar {
 				display: block;
 				margin: 0 auto 2.25em auto;
-				width: 7em;
+				width: 8em;
 			}
 
 			#header > header h1 {
-				font-size: 1.5em;
+				font-size: 1.75em;
 				margin: 0;
 			}
 
@@ -2789,9 +2789,9 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #ffffff;
+					border-top: solid 2px #ff9986;
 					display: block;
-					padding: 1;
+					padding: 0;
 				}
 
 					#header > nav ul li a {
@@ -2799,33 +2799,33 @@ input, select, textarea {
 						-webkit-transition: none;
 						-ms-transition: none;
 						transition: none;
-						border: 1;
-						color: #ffffff;
+						border: 0;
+						color: #ffffff !important;
 						display: block;
-						padding: 0.7em 0;
+						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #ffffff !important;
+							color: #ff9986 !important;
 						}
 
 					#header > nav ul li:first-child {
-						border-top: 1;
+						border-top: 0;
 					}
 
 /* Wrapper */
 
 	#wrapper {
 		background: #fff;
-		padding-right: 20em;
+		padding-right: 23em;
 	}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #ffffff;
+		border-top: solid 6px #f4f4f4;
 	}
 
 		#main > section > .container {
@@ -2833,7 +2833,7 @@ input, select, textarea {
 		}
 
 		#main > section:first-child {
-			border-top: 1;
+			border-top: 0;
 		}
 
 /* Footer */
@@ -2976,11 +2976,11 @@ input, select, textarea {
 				-ms-transition: -ms-transform 0.5s ease;
 				transition: transform 0.5s ease;
 				display: block;
-				height: 80%;
+				height: 100%;
 				overflow-y: auto;
 				position: fixed;
 				top: 0;
-				width: 20em;
+				width: 23em;
 				z-index: 10002;
 				-moz-transform: translateX(23em);
 				-webkit-transform: translateX(23em);
