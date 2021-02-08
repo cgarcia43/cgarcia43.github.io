@@ -2785,13 +2785,13 @@ input, select, textarea {
 			#header > nav ul {
 				list-style: none;
 				margin: 0;
-				padding: 1.5;
+				padding: 0;
 			}
 
 				#header > nav ul li {
-					border-top: solid 1px #ffffff;
+					border-top: solid 1.5px #ffffff;
 					display: block;
-					padding: 1.5;
+					padding: 0;
 				}
 
 					#header > nav ul li a {
@@ -2799,10 +2799,10 @@ input, select, textarea {
 						-webkit-transition: none;
 						-ms-transition: none;
 						transition: none;
-						border: 1.5;
+						border: 0;
 						color: #ffffff !important;
 						display: block;
-						padding: 3em 0;
+						padding: 1em 0;
 						text-decoration: none;
 					}
 
@@ -2812,7 +2812,7 @@ input, select, textarea {
 						}
 
 					#header > nav ul li:first-child {
-						border-top: 1;
+						border-top: 0;
 					}
 
 /* Wrapper */
